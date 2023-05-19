@@ -14,7 +14,7 @@ Art Gallery is a Compose Multiplatform application which presents famous paintin
 
 ### Android, iOS and Desktop 
 
-<img src="/screenshots/compose_multiplatform.gif" width="520"/>
+<img src="/screenshots/compose_multiplatform.gif" width="780"/>
 
 ## License
 ```
